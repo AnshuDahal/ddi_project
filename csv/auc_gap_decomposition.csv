@@ -1,0 +1,4 @@
+Component,Percentage,AUC_Contribution
+Disease-Distribution Imbalance,45,0.081
+Skin-Tone Representation Imbalance,30,0.054
+Residual Model-Level Bias,25,0.045

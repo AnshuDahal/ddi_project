@@ -1,0 +1,31 @@
+Metric,Split,Baseline,MGOT_Cal
+AUC Disparity,1,0.1769,0.038
+AUC Disparity,2,0.2253,0.0482
+AUC Disparity,3,0.1862,0.0403
+AUC Disparity,4,0.2093,0.0455
+AUC Disparity,5,0.1766,0.0432
+AUC Disparity,6,0.1785,0.0228
+AUC Disparity,7,0.1966,0.0506
+AUC Disparity,8,0.1982,0.033
+AUC Disparity,9,0.1775,0.034
+AUC Disparity,10,0.1279,0.0471
+TPR Disparity,1,0.4473,0.0325
+TPR Disparity,2,0.4781,0.0407
+TPR Disparity,3,0.4435,0.0687
+TPR Disparity,4,0.4642,0.0451
+TPR Disparity,5,0.4584,0.0463
+TPR Disparity,6,0.4557,0.0456
+TPR Disparity,7,0.4447,0.0178
+TPR Disparity,8,0.4686,0.0368
+TPR Disparity,9,0.4738,0.0122
+TPR Disparity,10,0.4987,0.0512
+Demographic Parity Gap,1,0.2525,0.0569
+Demographic Parity Gap,2,0.1968,0.0587
+Demographic Parity Gap,3,0.2541,0.0642
+Demographic Parity Gap,4,0.182,0.0681
+Demographic Parity Gap,5,0.1802,0.0589
+Demographic Parity Gap,6,0.2238,0.0468
+Demographic Parity Gap,7,0.1896,0.0711
+Demographic Parity Gap,8,0.1976,0.0916
+Demographic Parity Gap,9,0.2372,0.069
+Demographic Parity Gap,10,0.1856,0.0662
